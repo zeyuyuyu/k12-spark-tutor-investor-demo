@@ -4,7 +4,11 @@ K12 Spark Tutor is an active AI tutoring system for K12 learning. It teaches pro
 
 ## Main Demo Video
 
-[Watch the full narrated investor walkthrough](./demo-recordings/k12-tutor-investor-full-narrated.mp4)
+Use this new OpenRouter TTS version with a fresh filename:
+
+[Watch the full narrated investor walkthrough, OpenRouter TTS v4](./demo-recordings/k12-tutor-investor-openrouter-v4-complete.mp4)
+
+[Read the exact narration transcript](./demo-recordings/k12-tutor-investor-openrouter-v4-transcript.txt)
 
 ![K12 Spark Tutor full demo screenshot](./demo-recordings/k12-tutor-investor-full-final.png)
 
@@ -23,8 +27,8 @@ The product direction is not a passive homework chatbot. It is a proactive tutor
 
 The cost-conscious path is to use reusable curriculum templates, controlled 3D visualization modules, and targeted AI calls only where generation or tutoring adds clear learning value.
 
-## Short QA Clip
+## Previous Clips
 
-A shorter earlier QA clip is also available here:
+[Original full walkthrough](./demo-recordings/k12-tutor-investor-full-narrated.mp4)
 
-[Watch the short narrated walkthrough](./demo-recordings/k12-tutor-qa-walkthrough-narrated.mp4)
+[Short QA walkthrough](./demo-recordings/k12-tutor-qa-walkthrough-narrated.mp4)
